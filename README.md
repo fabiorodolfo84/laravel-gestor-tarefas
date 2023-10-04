@@ -1,2 +1,2 @@
 # laravel-gestor-tarefas
-projeto basico de um gestor de tarefas utilizando Laraval.
+projeto basico de um gestor de tarefas utilizando Laravel.
